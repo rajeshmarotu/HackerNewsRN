@@ -1,0 +1,3 @@
+//action types
+export const SAVE_STORIES = 'SAVE_STORIES';
+export const CONNECTION_STATUS_CHANGE = 'CONNECTION_STATUS_CHANGE';
